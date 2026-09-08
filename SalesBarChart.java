@@ -6,7 +6,9 @@ public static void main (String [] args){
 Scanner keyboard = new Scanner(System.in);
 int num_stores = 5;
 int num_asterisk=0;
-int [] sales = new int[num_stores];
+int [] sales = new int[num_stores]; //the array
+
+// Get the sales data for each store
 for(int i = 0; i < num_stores; i++){
     System.out.print("Enter today's sales for stores "+(i+1)+": ");
     sales [i] = keyboard.nextInt();
@@ -25,21 +27,7 @@ for(int i = 0; i < num_stores; i++){
 System.out.println();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
 
 }
 
