@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Jacqueline Moreno
+- Week:2
+- Lab:2
+- Date:9/8/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [ x] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: i learned how to use for loops more deeply and what is an object,class and method.
 
 ## Summary
 
